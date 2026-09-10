@@ -1,0 +1,2 @@
+Best Kernel: RBF
+Accuracy: 26.50%
