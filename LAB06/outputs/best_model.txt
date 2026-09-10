@@ -1,0 +1,5 @@
+Best model: NN_A
+Hidden Layers: [128]
+Epochs configured: 10
+Epochs actually trained: 10
+Accuracy: 46.50%
