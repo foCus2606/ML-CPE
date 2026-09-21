@@ -1,0 +1,5 @@
+CNN Configuration,Epochs,Accuracy,Accuracy (%)
+CNN_1,10,0.4400,44.00
+CNN_1,20,0.4450,44.50
+CNN_2,10,0.2350,23.50
+CNN_2,20,0.4400,44.00
